@@ -19,16 +19,3 @@
     background-color: transparent;
     color: rgb(89, 255, 47);
 }
-
-.Navbutton {
-    color: black;
-    background-color: transparent;
-    border: none;
-
-    height: 100%;
-    width: 12%;
-
-    &:hover {
-        background-color: rgba(0, 0, 0, 0.02);
-    }
-}
