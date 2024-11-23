@@ -1,3 +1,7 @@
+/* Shoutout to coolors.co for helping me pick the color palette for this site! */
+
 .App {
-    padding-top: 4%;
+    padding: 4% 15%;
+    background-color: #EFEFEF;
+    color: #247BA0;
 }

@@ -1,3 +1,5 @@
+import './pages.css';
+
 export default function CostBasisTotal() {
     return (
         <div className = 'page' id = 'cost-basis-total'>

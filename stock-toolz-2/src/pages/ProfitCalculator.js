@@ -1,3 +1,5 @@
+import './pages.css';
+
 export default function ProfitCalculator() {
     return (
         <div className = 'page' id = 'profit-calculator'>
