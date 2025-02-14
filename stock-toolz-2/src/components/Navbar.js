@@ -10,7 +10,6 @@ export default function Navbar() {
                 <Link to = '/profit-calculator'>Profit Calculator</Link>
                 <Link to = '/cost-basis-total'>Cost Basis Total Calculator</Link>
             </div>
-            <div id = 'line'></div>
         </div>
     );
 }
