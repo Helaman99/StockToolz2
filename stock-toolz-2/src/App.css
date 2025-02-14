@@ -1,3 +1,14 @@
+/* Shoutout to coolors.co for helping me pick the color palette for this site! */
+
+:root {
+    --primary-color: #FFFFFF; /* 60 */
+    --secondary-color: #2081C3; /* 30 */
+    --accent-color: #B4E646; /* 10 */
+    --text-color: #CBD2CF;
+  }
+
 .App {
-    padding-top: 4%;
+    padding: 4% 15%;
+    background-color: var(--primary-color);
+    color: var(--text-color);
 }
